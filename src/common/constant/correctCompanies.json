@@ -1,0 +1,172 @@
+[
+  {
+    "id": "uuid-1",
+    "createdAt": "2021-02-26T00:55:36.632Z",
+    "name": "Webprovise Corp",
+    "parentId": "0",
+    "cost": "0",
+    //362.00 + 859.00
+    "children": [
+      {
+        "id": "uuid-2",
+        "createdAt": "2021-02-25T10:35:32.978Z",
+        "name": "Stamm LLC",
+        "parentId": "uuid-1",
+        "cost": "0",
+        //835.00 + 191.00 + 403.00
+        "children": [
+          {
+            "id": "uuid-4",
+            "createdAt": "2021-02-25T06:11:47.519Z",
+            "name": "Price and Sons",
+            "parentId": "uuid-2",
+            "cost": "0"
+            //761.00 + 442.00 + 137.00
+          },
+          {
+            "id": "uuid-7",
+            "createdAt": "2021-02-25T07:56:32.335Z",
+            "name": "Zieme - Mills",
+            "parentId": "uuid-2",
+            "cost": "0"
+            //955.00 + 431.00 + 201.00 + 49.00
+          },
+          {
+            "id": "uuid-19",
+            "createdAt": "2021-02-25T21:06:18.777Z",
+            "name": "Schneider - Adams",
+            "parentId": "uuid-2",
+            "cost": "0"
+            //685.00+109.00
+          }
+        ]
+      },
+      {
+        "id": "uuid-3",
+        "createdAt": "2021-02-25T15:16:30.887Z",
+        "name": "Blanda, Langosh and Barton",
+        "parentId": "uuid-1",
+        "cost": "0",
+        // 383.00 + 104.00 + 698.00 + 500.00 + 393.00 + 999.00 + 770.00
+        "children": [
+          {
+            "id": "uuid-5",
+            "createdAt": "2021-02-25T13:35:57.923Z",
+            "name": "Hane - Windler",
+            "parentId": "uuid-3",
+            "cost": "0"
+            //234.00 + 477.00 + 577.00
+          },
+          {
+            "id": "uuid-6",
+            "createdAt": "2021-02-26T01:41:06.479Z",
+            "name": "Vandervort - Bechtelar",
+            "parentId": "uuid-3",
+            "cost": "0"
+            //872.00 + 735.00 +905.00
+          },
+          {
+            "id": "uuid-9",
+            "createdAt": "2021-02-25T16:02:49.099Z",
+            "name": "Kuhic - Swift",
+            "parentId": "uuid-3",
+            "cost": "0"
+            //906.00+774.00 +932.00 + 474.00
+          },
+          {
+            "id": "uuid-17",
+            "createdAt": "2021-02-25T11:17:52.132Z",
+            "name": "Rohan, Mayer and Haley",
+            "parentId": "uuid-3",
+            "cost": "0"
+            //228.00+738.00+401.00+654.00+439.00+887.00+157.00+568.00
+          },
+          {
+            "id": "uuid-20",
+            "createdAt": "2021-02-26T01:51:25.421Z",
+            "name": "Kunde, Armstrong and Hermann",
+            "parentId": "uuid-3",
+            "cost": "0"
+            //622.00+217.00+69.00
+          }
+        ]
+      },
+      {
+        "id": "uuid-8",
+        "createdAt": "2021-02-25T23:47:57.596Z",
+        "name": "Bartell - Mosciski",
+        "parentId": "uuid-1",
+        "cost": "0",
+        //32.00 + 484.00 + 146.00 + 740.00 + 689.00
+        "children": [
+          {
+            "id": "uuid-10",
+            "createdAt": "2021-02-26T01:39:33.438Z",
+            "name": "Lockman Inc",
+            "parentId": "uuid-8",
+            "cost": "0"
+            //315.00+970.00+870.00+486.00+501.00+38.00+469.00+639.00
+          },
+          {
+            "id": "uuid-11",
+            "createdAt": "2021-02-26T00:32:01.307Z",
+            "name": "Parker - Shanahan",
+            "parentId": "uuid-8",
+            "cost": "0",
+            //705.00+889.00+873.00+405.00+71.00+443.00
+            "children": [
+              {
+                "id": "uuid-12",
+                "createdAt": "2021-02-25T06:44:56.245Z",
+                "name": "Swaniawski Inc",
+                "parentId": "uuid-11",
+                "cost": "0"
+                //978.00+716.00+416.00
+              },
+              {
+                "id": "uuid-14",
+                "createdAt": "2021-02-25T15:22:08.098Z",
+                "name": "Weimann, Runolfsson and Hand",
+                "parentId": "uuid-11",
+                "cost": "0"
+                //674.00+274.00+818.00+848.00+666.00+186.00+609.00+493.00+68.00+212.00+472.00+419.00+603.00+781.00+131.00
+              }
+            ]
+          },
+          {
+            "id": "uuid-13",
+            "createdAt": "2021-02-25T20:45:53.518Z",
+            "name": "Balistreri - Bruen",
+            "parentId": "uuid-8",
+            "cost": "0"
+            //577.00+237.00+872.00
+          },
+          {
+            "id": "uuid-15",
+            "createdAt": "2021-02-25T18:00:26.864Z",
+            "name": "Predovic and Sons",
+            "parentId": "uuid-8",
+            "cost": "0"
+            //941.00+845.00+999.00+954.00+923.00+63.00
+          },
+          {
+            "id": "uuid-16",
+            "createdAt": "2021-02-26T01:50:50.354Z",
+            "name": "Weissnat - Murazik",
+            "parentId": "uuid-8",
+            "cost": "0"
+            //53.00+718.00+691.00+482.00+812.00+521.00
+          }
+        ]
+      },
+      {
+        "id": "uuid-18",
+        "createdAt": "2021-02-26T02:31:22.154Z",
+        "name": "Walter, Schmidt and Osinski",
+        "parentId": "uuid-1",
+        "cost": "0"
+        //100.00+44.00+652.00+817.00+119.00+301.00
+      }
+    ]
+  }
+]
